@@ -1,0 +1,59 @@
+Rank,Country,EstPopulation,RelativeAnnualGrowthPct,AbsoluteAverageGrowth,EstDoublingTime,OfficialPopulation,LastOfficialDate,Source,MigrationDirection
+1,Nigeria,181563000,2.91,4731000,24,173000000,2013,Official estimate,1
+2,Ethiopia,103764000,2.41,2424000,29,99391000,2015,Official estimate,1
+3,Egypt,89125000,2.29,2028000,31,94408000,"April 12, 2018",Official population clock,1
+4,Democratic Republic of the Congo,77267000,3.13,2390000,22,86026000,"July 1, 2015",Official estimate,0
+5,South Africa,54957000,1.61,873000,43,54956900,"July 1, 2015",Official estimate,1
+6,United Republic of Tanzania,51046000,2.97,1414000,24,51046000,2015,Official estimate,-1
+7,Kenya,45533000,2.87,1196000,24,45533000,2015,Official estimate,1
+8,Sudan,40235000,3.07,912000,23,40235000,2015,Official estimate,-1
+9,Algeria,39670000,2.07,768000,34,40100000,"January 1, 2016",Official estimate,-1
+10,Uganda,37102000,3.09,1201000,23,34856813,"August 28, 2014",Preliminary 2014 census result,1
+11,Morocco,34380000,1.24,412000,56,33337529,"September 1, 2014",Preliminary 2014 census result,1
+12,Mozambique,28013000,2.74,702000,26,28013000,2015,Official estimate,1
+13,Ghana,27414000,2.48,621000,28,27043093,2014,Official estimate,-1
+14,Angola,25326000,3.43,839000,21,24383301,"May 16, 2014",Preliminary 2014 census result,0
+15,Ivory Coast,23126000,2.55,451000,27,22671331,"May 15, 2014",Preliminary 2014 census result,1
+16,Madagascar,23043000,2.71,609000,26,22434363,2014,Official estimate,0
+17,Cameroon,21918000,2.65,565000,27,21917602,2015,Official estimate,0
+18,Niger,18880000,3.86,701000,18,17138707,"December 10, 2012",Final 2012 census result,-1
+19,Burkina Faso,18450000,3.26,582000,22,18450494,2015,Official estimate,-1
+20,Mali,17796000,3.3,568000,21,14528662,"April 1, 2009",Final 2009 census result,-1
+21,Malawi,16307000,3.18,502000,22,16832900,"July 1, 2016",Official estimate,1
+22,Zambia,15474000,3,451000,23,15473905,2015,Official estimate,1
+23,Somalia,14317996,1.54,166000,45,12316895,"January 1, 2016",Official estimate,1
+24,Senegal,14150000,2.92,401000,24,14354690,2015,Official estimate,-1
+25,Chad,13675000,3.57,471000,20,11039873,"May 20, 2009",Final 2009 census result,-1
+26,Zimbabwe,13503000,1.17,156000,60,13061239,"August 17, 2012",Final 2012 census result,1
+27,South Sudan,12519000,5.95,703000,12,8260490,"April 22, 2008",2008 census result,-1
+28,Rwanda,11324000,2.61,288000,27,10515973,"August 15, 2012",Final 2012 census result,-1
+29,Tunisia,11118000,1.04,114000,67,10982754,"April 23, 2014",Preliminary 2014 census result,1
+30,Guinea,10935000,2.3,246000,30,10628972,"April 2, 2014",Preliminary 2014 census result,-1
+31,Benin,10782000,3.54,369000,20,10008749,"May 11, 2013",Final 2013 census result,-1
+32,Burundi,9824000,2.93,280000,24,9823828,2015,Official estimate,-1
+33,Togo,7065000,2.87,197000,25,6191155,"November 6, 2010",Final 2010 census result,-1
+34,Eritrea,6895000,5.49,359000,13,6536000,"July 1, 2014",Official estimate,-1
+35,Sierra Leone,6513000,2.57,163000,27,6348350,2014,Official estimate,-1
+36,Libya,6278000,1.13,70000,62,5298152,"April 15, 2006",2006 census result,-1
+37,Republic of the Congo,4706000,2.98,136000,24,3697490,"April 28, 2007",2007 census result,-1
+38,Central African Republic,4659080,2,96000,35,3859139,2017,[1],0
+39,Liberia,4046000,2.09,83000,33,3476608,"March 21, 2008",Final 2008 census result,-1
+40,Mauritania,3632000,2.43,86000,29,3718678,2016,Official estimate,-1
+41,Namibia,2281000,2.01,45000,35,2280700,"July 1, 2015",Official estimate,1
+42,Botswana,2176000,1.92,41000,36,2024904,"August 22, 2011",Final 2011 census result,1
+43,Gambia,2022000,3.27,64000,22,1882450,"April 15, 2013",Preliminary 2013 census result[permanent dead link],-1
+44,Equatorial Guinea,1996000,4.23,81000,17,1222442,"July 4, 2015",Preliminary 2015 census result,-1
+45,Lesotho,1908000,0.21,4000,330,1894194,2011,Official estimate,0
+46,Gabon,1873000,1.85,34000,38,1802278,"October 5, 2013",Preliminary 2013 census result,1
+47,Guinea-Bissau,1788000,2.58,45000,27,1530673,2015,Official estimate,0
+48,Mauritius,1263000,0.16,2000,437,1261208,"July 1, 2014",Official estimate,0
+49,Swaziland,1119000,1.18,13000,59,1119375,2015,Official estimate,0
+50,Djibouti,961000,2.67,25000,26,864618,"July 1, 2011",Official estimate,0
+51,Réunion (France),853000,0.71,6000,98,840974,"January 1, 2013",Official estimate,0
+52,Comoros,783000,2.62,20000,27,806200,"July 1, 2016",Official estimate,0
+53,Cape Verde,525000,1.35,7000,52,491875,"June 16, 2010",Final 2010 census result,0
+54,estern Sahara,509000,1.8,9000,39,510713,"September 2, 2014",Preliminary 2014 census result,0
+55,Mayotte (France),229000,2.69,6000,26,212600,"August 21, 2012",2012 census result,0
+56,São Tomé and Príncipe,194000,2.65,5000,27,179200,"May 13, 2012",Final 2012 census result,0
+57,Seychelles,97000,1.04,1000,67,90945,"August 26, 2010",Final 2010 census result,0
+58,"Saint Helena, Ascension and Tristan da Cunha (UK)",4000,0,0,-,5633,June 2016,2016 census result,0
